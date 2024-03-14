@@ -1,6 +1,5 @@
 # Hello, i'm MC
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="180em" style="margin: 20px;"/>   
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioDosantos&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricioDosantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
@@ -21,6 +20,9 @@ No inicio não sabia por onde começar a estudar ou o que fazer, não fiquei par
 > [!IMPORTANT]
 > ### Projeto atual 🧑‍💻
 > Estou postando conteúdos de programação, meme, formas de entrar na área, dicas, projetos. O objetivo é estimular o estudo de programação por mais pessoas. Já te convido a me seguir no Instagram para acompanhar meu trabalho.
+
+### Editor de código
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="180em" style="margin: 20px;"/>   
 
 ## Contato
 

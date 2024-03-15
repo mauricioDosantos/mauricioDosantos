@@ -6,16 +6,16 @@
 
 ### E o pix? Nada ainda? :shipit:
 
-Como pode perceber gosto de pix, gastar o pix, jogar todos os tipos de jogos.
+Como pode perceber gosto de pix e gastar o pix.
 
 ### Sobre minha vida no computador 💻
-Começei essa jornada de ficar em frente ao computador em 2018 no curso Tec. Desenvolvimento de Sistemas no IFPI, neste curso desenvolvi alguns projetos que me despertaram para esse mundo de programação, a baixo listo três desses projetos:
+Comecei essa jornada de ficar em frente ao computador em 2018 no curso Tec. Desenvolvimento de Sistemas no IFPI, neste curso desenvolvi três projetos que me despertaram para esse mundo de programação:
 1. [Calculadora feita com tkinter](https://github.com/mauricioDosantos/Calculadora-em-python)
 2. [Blog feito com django](https://github.com/mauricioDosantos/my-first-blog)
 3. [Análise de dados dos exames classificatórios de 2015.2](https://colab.research.google.com/drive/1JOR-AIxM9ytC2HFu_J_Ebtxskrb_Lt6o?usp=sharing)
 
 ### Continuação 💫
-No inicio não sabia por onde começar a estudar ou o que fazer, não fiquei paradado e continuei estudando python em um curso na Udemy 😢. Em 2019 inicei curso em Ciências da Computação na Estácio, nesse curso consegui aprender vários conceitos de baixo nível que não tinha ideia. Minha virada de chave foi no final de 2020 quando entrei em um curso grátis do Senac, nesse curso conheci o ***@arturveloso*** que me colocou no projeto Fábrica de Gênios e me aconselhou a ficar ativo no LinkedIn. 😎 No inicio de 2021 encontrei minha primeira oportunidade na empresa Sensedata, nesse processo de contratação o ***@gustavomolina*** foi uma pessoa muito importante nesse processo. Tabalho até hoje na Sensedata, em todos esse anos tive uma evolução gigantesca em todas as áreas da aminha vida, pois estou cercado de pessoas bem melhores que eu. Ao entrar na Sensedata recebi por padrinho o ***@athayrleite*** que é uma das pessoa que me acompanha desde o início dessa jornada, Obrigado! 🤘
+No início não sabia por onde começar a estudar ou o que fazer, não fiquei paradado e continuei estudando python em um curso na Udemy 😢. Em 2019 iniciei o curso de Ciências da Computação na Estácio, nesse curso consegui aprender vários conceitos de baixo nível que não tinha ideia. Minha virada de chave foi no final de 2020 quando entrei em um curso grátis do Senac, nesse curso conheci o ***@arturveloso*** que me colocou no projeto Fábrica de Gênios e me aconselhou a ficar ativo no LinkedIn. 😎 No início de 2021 encontrei minha primeira oportunidade na empresa Sensedata, nesse processo de contratação o ***@gustavomolina*** foi uma pessoa muito importante nesse processo. Tabalho até hoje na Sensedata, em todos esses anos tive uma evolução gigantesca em todas as áreas da minha vida, pois estou cercado de pessoas altamente capacitadas. Ao entrar na Sensedata recebi por padrinho o ***@athayrleite*** que é uma das pessoa que me acompanha desde o início dessa jornada, Obrigado! 🤘
 
 > [!IMPORTANT]
 > ### Projeto atual 🧑‍💻
